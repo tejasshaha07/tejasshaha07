@@ -10,9 +10,9 @@
   <h3>🚀 A passionate techie. I like to Innovate and Learn new tech.</h3>
   
   <p>
-    🌱 I’m currently learning <b>Angular, Unity, and GitLabs</b><br>
+    🌱 I’m currently learning <b>Rabbit MQ, Langgraph, and Azure</b><br>
     👨‍💻 All my YouTube channel projects are at <a href="https://github.com/futureautomate"><b>github.com/futureautomate</b></a><br>
-    💬 Ask me about <b>IoT, Python, Angular, Raspberry Pi, Arduino</b><br>
+    💬 Ask me about <b>IoT, Python, React Js, Raspberry Pi, Arduino, .Net, AI</b><br>
     ⚡ Fun fact: <b>"Life is like an If-Else block"</b>
   </p>
 
